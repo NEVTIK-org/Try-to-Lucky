@@ -1,7 +1,4 @@
-Try to Lucky
-ansofhn5@gmail.com
-
-Dedicated to NEVTIK
+# Try to Lucky
 
 How to Use :
 
@@ -21,3 +18,5 @@ Coin Guess
 - this game based on coins money
 - guess between "angka" or "gambar"
 - this game can only be played by one player
+
+Contact the creator : ansofhabibunnadjar@nevtik.org
